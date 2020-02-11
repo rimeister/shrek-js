@@ -1,3 +1,19 @@
+class Swamp {
+
+	// A "Swamp" will basically just be a three.js world, or something
+	// Will take in the DOM element, have a camera, etc.
+
+	constructor(props) {
+		super(props);
+	}
+
+	// Initializing the swamp sets up the world, camera, etc.
+	init() {
+		
+	}
+
+}
+
 class Onion {
 	constructor(props) {
 		super(props);
